@@ -1,3 +1,3 @@
 // Code your solution in this file
 
-names
+names.filter
