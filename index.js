@@ -9,5 +9,5 @@ function fuzzyMatch(drivers, letters) {
 }
 
 function matchName(drivers, name, names) {
-  return drivers.filter( drivers => drivers === name === names);  
+  return drivers.filter( drivers => name === names);  
 }
