@@ -1,4 +1,5 @@
 // Code your solution in this file
 
-function findMatching(names)
-names.filter(n)
+function findMatching(names) {
+  return names.filter(n )  
+}
