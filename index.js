@@ -8,6 +8,6 @@ function fuzzyMatch(drivers, letters) {
   return drivers.filter( drivers => drivers.slice(0,letters.length) === letters); 
 }
 
-function matchName(drivers, names) {
+function matchName(drivers, name, names) {
   return drivers.filter( drivers => name === names);  
 }
