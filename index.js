@@ -1,3 +1,4 @@
 // Code your solution in this file
 
-names.filter(names=>)
+function 
+names.filter(n)
